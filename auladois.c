@@ -4,8 +4,8 @@
         int idade = 25;
         int Idade; // as variaveis sao case sensitive, Idade com (I maisculo) nao é  amesma coisa de idade
         int quantidade = 1 ;
-        float altura = 1,69 ;
-        double peso = 100,50;
+        float altura = 1.6;
+        double peso = 100.50;
         char letra = 'J';
         char nome [4] = "joao";
         Idade = 23; //iniciei a variavel Idade aqui
@@ -21,4 +21,4 @@ de dados eles podem armazenar. por exemplo:
     char: caractere, letra. 
 também pode armazenar strings (palavras), mas preciso usar '[]'
 
-'SEMPRE INICIALIZE SUA VARIÁVEL. SEMPRE ATRIBUA VALORES
+'SEMPRE INICIALIZE SUA VARIÁVEL. SEMPRE ATRIBUA VALORES*/
