@@ -18,7 +18,7 @@ de dados eles podem armazenar. por exemplo:
     int : valores inteiros 2, 3
     float: valores "quebrados, com virgula" 1,5. 2,1 usado para numeros pequenos
     double: mesmo do float, porem como valores maiores
-    char: caractere, letra. 
+    char: caractere, letra. para iniciar char, usar '' 
 também pode armazenar strings (palavras), mas preciso usar '[]'
 
 'SEMPRE INICIALIZE SUA VARIÁVEL. SEMPRE ATRIBUA VALORES*/
